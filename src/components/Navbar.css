@@ -1,0 +1,22 @@
+
+
+nav {
+    background-color: rgba(8, 8, 134, 0.737);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+img {
+    height: 50px;
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}

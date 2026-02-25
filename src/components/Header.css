@@ -1,0 +1,28 @@
+
+
+
+.header {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    gap: 10px;
+    text-align: center;
+    padding: 0 10%;
+}
+
+.header > div {
+    border-radius: 5px;
+    background-color:  rgba(8, 8, 134, 0.737);
+}
+
+.header h3 {
+    color: white;
+}
+
+.header > div > div {
+    color:  white;
+}
+
+.main {
+    text-align: center;
+}
